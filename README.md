@@ -36,7 +36,7 @@ For this tutorial you will get a training account for a Jetstream Virtual Machin
 
 ## Tapis Introduction
 
-*   [Introduction](https://docs.google.com/presentation/d/1j8MHB6QqkZPsIBV-SWkTahA1W37FwFIJUGzsTlTisOc/edit?usp=sharing)
+*   [Introduction](https://docs.google.com/presentation/d/1Jb3a43n4PJoihpK6X44aB0UC4XRWKbM8OKe-Xay-5F0/edit?usp=sharing)
 
 ## Running Jupyter Notebook using Google Colab
 
