@@ -6,7 +6,7 @@
 
 *   [Welcome](./welcome/intro.md)
 
-## Schedule (Central Time)
+## Schedule (Eastern Time)
 
 *   1:00 PM - Getting set up
 *   1:10 PM - Introduction to Tapis v3
