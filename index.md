@@ -9,14 +9,14 @@
 ## Schedule (Eastern Time)
 
 *   1:00 PM - Getting set up
-*   12:40 PM - Introduction to Tapis v3
-*   1:00 PM - Running Jupyter Notebooks on Google Colab and installing Tapis SDK
-*   1:10 PM - Tapis Systems, Tapis Applications, Files service
-*   2:10 PM - Break
-*   2:30 PM - Tapis Jobs, Run Machine Learning jobs on Virtual machine. Analyze and Share results
-*   3:20 PM - Job Notifications
-*   3:30 PM - Application Sharing
-*   3:50 PM - Serverless Gateway with Tapis UI
+*   1:10 PM - Introduction to Tapis v3
+*   1:30 PM - Running Jupyter Notebooks on Google Colab and installing Tapis SDK
+*   2:10 PM - Tapis Systems, Tapis Applications, Files service
+*   2:30 PM - Break
+*   3:00 PM - Tapis Jobs, Run Machine Learning jobs on Virtual machine. Analyze and Share results
+*   3:30 PM - Job Notifications
+*   3:45 PM - Application Sharing
+*   4:00 PM - Serverless Gateway with Tapis UI
 *   4:20 PM - Tutorial Wrap-up Q/A
 
 Presenters:
@@ -24,7 +24,7 @@ Presenters:
 *   Joe Stubbs (TACC)
 *   Steve Black (TACC)
 *   Anagha Jamthe (TACC)
-*   Mike Pakard (TACC)
+*   Mike Packard (TACC)
 *   Sean Cleveland (UH)
 *   Jared McLean (UH)
 
