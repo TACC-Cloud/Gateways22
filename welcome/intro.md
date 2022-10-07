@@ -1,9 +1,9 @@
-Welcome to Tapis Day Tutorial
+Welcome to Building Portable, Scalable and Reproducible Scientific Workloads across Cloud and HPC for Gateways
 ===
 
 ### Join Slack
 
-Join the channel #taccster-tapis-2022 on TACC Learn Slack:
+Join the channel #tapis-gw22 on TACC Learn Slack:
 
 ### Training accounts
 Make sure you have training account details in your email (shared with us during registration).
