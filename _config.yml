@@ -20,5 +20,7 @@ nav:
     - Job outputs and sharing results: block4/jobs
   - Intro to Tapis UI:
     - Intro to Tapis UI: block5/intro
+    - Setting Up Github and Gitpod: block5/github
+    - Deploying Tapis UI in Github Pages: block5/deploying
 
 theme: jekyll-theme-time-machine
