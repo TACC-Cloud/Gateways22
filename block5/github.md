@@ -7,7 +7,7 @@ You can create your own fork of `tapis-ui`. Browse to the repository at [https:/
 
 <img src="../images/github_createfork.png" class="img-responsive" alt="GitHub Fork Tapis UI">
 
-In the next page, you can rename your copy of the fork or leave the defaults. When you are ready to proceed, click *Create Fork*.
+In the next page, you can rename your copy of the fork or leave the defaults. Make sure the "Copy the main branch only" option is not checked. We will need the gh-pages branch to configure GitHub Pages later. When you are ready to proceed, click *Create Fork*.
 
 <img src="../images/github_namefork.png" class="img-responsive" alt="GitHub Create the Fork">
 
