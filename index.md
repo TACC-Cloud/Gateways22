@@ -73,3 +73,13 @@ For this tutorial you will get a training account for a Jetstream Virtual Machin
 ## Apps Sharing
 
 ## Serverless Gateway with Tapis UI
+
+*   [Intro to Tapis UI](./block5/intro.md)
+*   [Forking Tapis UI](./block5/github.md)
+*   [Setting up GitPod](./block5/github.md#importing-your-tapis-ui-fork-into-gitpod)
+*   [Creating an SSH Key](./block5/github.md#creating-an-ssh-key)
+*   [Setting up GitHub Pages](./block5/deploying.md)
+*   [Configuring Your Deployment](./block5/deploying.md#configuring-your-deployment)
+*   [Deploying Tapis UI](./block5/deploying.md#deploying)
+*   [Updating Deployments](./block5/deploying.md#updating-your-deployment)
+
