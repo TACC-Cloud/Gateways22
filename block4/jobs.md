@@ -151,8 +151,8 @@ print("****************************************************")
 We will soon show you how to analyze the results. Before that lets try to submit a job on HPC machine.
 
 ### Submit job on HPC Cluster
-Tapis supports porting the app from a virtual machine to HPC. You can run the same app on Stampede2 today by changing
-the exec-system name registered on HPC in the job submission request.output
+Tapis supports porting the app from a virtual machine to HPC. If we had access and an allocation we could run the same app on Stampede2 today by justing changing
+the exec-system name registered on HPC in the job submission request.  We will however run this on the VM that has a SLURM scheduler we registered earlier.
 
 ```
 # Run Image classifier app on the HPC Machine
