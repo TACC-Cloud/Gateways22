@@ -73,7 +73,7 @@ app_def = {
   "jobAttributes": {
     "parameterSet": {
       "appArgs": [ { "arg": "--image_file",
-                       "meta": { "name": "arg1" } }
+                       "notes": { "name": "arg1" } }
       ],
       "archiveFilter": { "includeLaunchFiles": False }
     },
