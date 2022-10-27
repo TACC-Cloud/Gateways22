@@ -86,7 +86,7 @@ pa = {
       "appArgs": [
           {"arg": "--image_file", "meta": { "name": "arg1", "required": True}},
           {"arg": "'https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231410/Labrador-Retriever-On-White-01.jpg'",
-           "meta": {"name": "arg2", "required": True}
+           "notes": {"name": "arg2", "required": True}
           }
       ]
 }
